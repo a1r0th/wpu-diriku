@@ -1,0 +1,2 @@
+# wpu-diriku
+repository kedepan
